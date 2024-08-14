@@ -1,0 +1,29 @@
+{
+    "start_year": 2013,
+    "end_year": 2023,
+    "normalisation_level": "docs_level_sentence_list_text_normalised_ent_joined",
+    "min_sentence_len": 10,
+    "n_gram_range": [
+        1,
+        1
+    ],
+    "vocab_min_token_freq": 500,
+    "vocab_max_token_freq": null,
+    "max_n_top_features": null,
+    "half_context_size": 3,
+    "sgns_k": 3,
+    "training_data_stats": {
+        "n_usable_sentences": 3326671,
+        "vocab_size": 6906,
+        "n_samples": 257671644
+    },
+    "global_seed": 9,
+    "model": "w2v_sgns",
+    "device": "cuda",
+    "vocab_size": 6906,
+    "embedding_dim": 300,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "epochs": 5,
+    "batch_size": 512
+}

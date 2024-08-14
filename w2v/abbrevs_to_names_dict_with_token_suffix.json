@@ -1,0 +1,590 @@
+{
+    "abc_token": [
+        "agricultural bank china",
+        "abc international holdings limited",
+        "abc"
+    ],
+    "aig_token": [
+        "american international group",
+        "aig"
+    ],
+    "anz_token": [
+        "australia new zealand banking group limited",
+        "australia new zealand banking group",
+        "anz"
+    ],
+    "as_token": [
+        "australiansuper"
+    ],
+    "av_token": [
+        "aviva plc",
+        "aviva"
+    ],
+    "axa_token": [
+        "axa group",
+        "axa sa",
+        "axa"
+    ],
+    "az_token": [
+        "allianz group",
+        "allianz se",
+        "allianz"
+    ],
+    "barc_token": [
+        "barclays bank plc",
+        "barclays group",
+        "barclays plc",
+        "barclays"
+    ],
+    "bbva_token": [
+        "bbva group",
+        "banco bilbao vizcaya argentaria",
+        "bbva"
+    ],
+    "bh_token": [
+        "berkshire hathaway"
+    ],
+    "blk_token": [
+        "blackrock",
+        "blk"
+    ],
+    "bmo_token": [
+        "bmo financial group",
+        "bank montreal",
+        "bmo"
+    ],
+    "bnp_token": [
+        "bnp paribas sa",
+        "bnp paribas group",
+        "bnp paribas",
+        "bnp"
+    ],
+    "bns_token": [
+        "bank nova scotia",
+        "scotiabank",
+        "bns"
+    ],
+    "bnym_token": [
+        "bank new york mellon corporation",
+        "bank new york mellon",
+        "bny mellon",
+        "bnymellon",
+        "bny"
+    ],
+    "boa_token": [
+        "bank america corporation",
+        "bank america"
+    ],
+    "boc_token": [
+        "bank china group",
+        "bank china",
+        "boc"
+    ],
+    "boca_token": [
+        "bank canada"
+    ],
+    "bocom_token": [
+        "bank communications",
+        "bocom"
+    ],
+    "boe_token": [
+        "bank england",
+        "boe"
+    ],
+    "boj_token": [
+        "bank japan",
+        "boj"
+    ],
+    "bok_token": [
+        "bank korea",
+        "bok"
+    ],
+    "bpce_token": [
+        "bpce group",
+        "group bpce",
+        "bpce sa",
+        "bpce"
+    ],
+    "bs_token": [
+        "blackstone group",
+        "blackstone inc",
+        "blackstone"
+    ],
+    "ca_token": [
+        "credit agricole cib",
+        "credit agricole sa",
+        "credit agricole group",
+        "credit agricole"
+    ],
+    "cba_token": [
+        "commonwealth bank australia",
+        "cba"
+    ],
+    "cbk_token": [
+        "commerzbank aktiengesellschaft",
+        "commerzbank group",
+        "commerzbank ag",
+        "commerzbank",
+        "cbk"
+    ],
+    "ccb_token": [
+        "china construction bank corporation",
+        "china construction bank",
+        "construction bank",
+        "ccb"
+    ],
+    "ceb_token": [
+        "china everbright bank company limited",
+        "china everbright bank",
+        "china everbright group",
+        "china everbright",
+        "ceb"
+    ],
+    "cibc_token": [
+        "canadian imperial bank commerce",
+        "cibc"
+    ],
+    "cic_token": [
+        "china investment corporation",
+        "cic"
+    ],
+    "citi_token": [
+        "citi",
+        "citigroup",
+        "citibank"
+    ],
+    "citic_token": [
+        "citic group",
+        "citic bank",
+        "citic"
+    ],
+    "cl_token": [
+        "china life insurance company limited",
+        "china life"
+    ],
+    "cm_token": [
+        "credit mutuel group",
+        "credit mutuel alliance federale",
+        "credit mutuel"
+    ],
+    "cmb_token": [
+        "china merchants bank",
+        "china merchants group",
+        "cmb"
+    ],
+    "cmbc_token": [
+        "china minsheng banking corporation limited",
+        "china minsheng banking",
+        "china minsheng bank",
+        "minsheng"
+    ],
+    "cpp_token": [
+        "canada pension plan investment board",
+        "canada pension plan",
+        "cppib",
+        "cpp"
+    ],
+    "cs_token": [
+        "credit suisse group ag",
+        "credit suisse group",
+        "credit suisse ag",
+        "credit suisse"
+    ],
+    "db_token": [
+        "deutsche bank ag",
+        "deutsche bank",
+        "db"
+    ],
+    "dbs_token": [
+        "development bank singapore",
+        "dbs bank",
+        "dbs group",
+        "dbs"
+    ],
+    "djd_token": [
+        "desjardins",
+        "desjardins group"
+    ],
+    "dl_token": [
+        "dai ichi life holdings",
+        "dai ichi life group",
+        "dai ichi life"
+    ],
+    "dsk_token": [
+        "danske bank group",
+        "danske bank s",
+        "danske bank",
+        "danske"
+    ],
+    "dz_token": [
+        "dz bank group",
+        "dz bank ag",
+        "dz bank",
+        "dz"
+    ],
+    "ecb_token": [
+        "european central bank",
+        "ecb"
+    ],
+    "fed_token": [
+        "federal reserve system",
+        "federal reserve banks",
+        "federal reserve bank",
+        "federal reserve board",
+        "federal reserve",
+        "fed"
+    ],
+    "ff_token": [
+        "future fund board guardians",
+        "future fund board",
+        "future fund"
+    ],
+    "frs_token": [
+        "florida retirement system trust fund",
+        "florida retirement system",
+        "frs"
+    ],
+    "g_token": [
+        "generali group",
+        "generali"
+    ],
+    "gpif_token": [
+        "government pension investment fund",
+        "gpif"
+    ],
+    "gs_token": [
+        "goldman sachs group inc",
+        "goldman sachs group",
+        "goldman sachs",
+        "gs"
+    ],
+    "hdfc_token": [
+        "housing development finance corporation limited",
+        "housing development finance corporation",
+        "hdfc"
+    ],
+    "hfg_token": [
+        "hana financial group",
+        "hana bank",
+        "hana"
+    ],
+    "hsbc_token": [
+        "hongkong shanghai banking corporation",
+        "hsbc holdings plc",
+        "hsbc holdings",
+        "hsbc"
+    ],
+    "iag_token": [
+        "insurance australia group limited",
+        "insurance australia group",
+        "iag group",
+        "iag"
+    ],
+    "ibc_token": [
+        "industrial bank"
+    ],
+    "icbc_token": [
+        "industrial commercial bank china",
+        "icbc"
+    ],
+    "icici_token": [
+        "icici bank limited",
+        "icici bank",
+        "icici"
+    ],
+    "ing_token": [
+        "ing group",
+        "ing groep",
+        "ing bank",
+        "ing"
+    ],
+    "isp_token": [
+        "intesa sanpaolo group",
+        "intesa sanpaolo",
+        "intesa"
+    ],
+    "ivz_token": [
+        "invesco ltd",
+        "invesco"
+    ],
+    "jpb_token": [
+        "japan post bank",
+        "japan post group"
+    ],
+    "jpm_token": [
+        "jpmorgan chase co",
+        "jpmorgan chase",
+        "jpmorgan"
+    ],
+    "kbfg_token": [
+        "kb financial group",
+        "kbfg",
+        "kb"
+    ],
+    "kkr_token": [
+        "kohlberg kravis roberts",
+        "kkr co inc",
+        "kkr"
+    ],
+    "lgen_token": [
+        "legal general group plc",
+        "legal general group",
+        "legal general"
+    ],
+    "lloy_token": [
+        "lloyds banking group plc",
+        "lloyds banking group",
+        "lloyds bank",
+        "lloyds"
+    ],
+    "met_token": [
+        "metropolitan life insurance company",
+        "metropolitan life",
+        "metlife"
+    ],
+    "mfc_token": [
+        "manulife financial corporation",
+        "manulife financial",
+        "manulife"
+    ],
+    "mfg_token": [
+        "mizuho financial group",
+        "mizuho"
+    ],
+    "mqg_token": [
+        "macquarie group limited",
+        "macquarie group",
+        "macquarie"
+    ],
+    "mr_token": [
+        "munich reinsurance company",
+        "munich reinsurance",
+        "munich re"
+    ],
+    "ms_token": [
+        "morgan stanley co",
+        "morgan stanley"
+    ],
+    "mufg_token": [
+        "mitsubishi ufj financial group",
+        "mufg"
+    ],
+    "nab_token": [
+        "national australia bank limited",
+        "national australia bank",
+        "nab"
+    ],
+    "nbc_token": [
+        "national bank canada",
+        "nbc"
+    ],
+    "nbim_token": [
+        "norges bank investment management",
+        "norges bank",
+        "nbim"
+    ],
+    "nbs_token": [
+        "nationwide building society",
+        "nationwide"
+    ],
+    "nda_token": [
+        "nordea bank abp",
+        "nordea bank ab",
+        "nordea bank",
+        "nordea"
+    ],
+    "nl_token": [
+        "nippon life insurance company",
+        "nippon life",
+        "nissay asset management corporation",
+        "nissay"
+    ],
+    "nmr_token": [
+        "nomura holdings",
+        "nomura group",
+        "nomura"
+    ],
+    "nps_token": [
+        "national pension scheme",
+        "nps"
+    ],
+    "nrck_token": [
+        "norinchukin bank",
+        "norinchukin"
+    ],
+    "nwrbs_token": [
+        "royal bank scotland group plc",
+        "royal bank scotland",
+        "rbs",
+        "natwest group",
+        "natwest"
+    ],
+    "nyslrs_token": [
+        "new york state local retirement system",
+        "nyslrs"
+    ],
+    "ocbc_token": [
+        "oversea chinese banking corporation limited",
+        "oversea chinese banking corporation",
+        "ocbc"
+    ],
+    "pa_token": [
+        "ping insurance group company",
+        "ping insurance group",
+        "ping insurance",
+        "ping group",
+        "ping bank",
+        "ping"
+    ],
+    "pnc_token": [
+        "pittsburgh national corporation",
+        "provident national corporation",
+        "pnc financial services group",
+        "pnc bank",
+        "pnc"
+    ],
+    "pru_token": [
+        "prudential plc",
+        "prudential"
+    ],
+    "qbe_token": [
+        "qbe insurance group limited",
+        "qbe insurance group",
+        "qbe"
+    ],
+    "rba_token": [
+        "reserve bank australia",
+        "rba"
+    ],
+    "rbb_token": [
+        "rabobank group",
+        "rabobank"
+    ],
+    "rbc_token": [
+        "royal bank canada",
+        "rbc"
+    ],
+    "rbi_token": [
+        "reserve bank india",
+        "rbi"
+    ],
+    "san_token": [
+        "grupo santander",
+        "banco santander",
+        "santander group",
+        "santander bank",
+        "santander"
+    ],
+    "sbi_token": [
+        "state bank india",
+        "sbi"
+    ],
+    "sc_token": [
+        "standard chartered plc",
+        "standard chartered bank",
+        "standard chartered"
+    ],
+    "sfg_token": [
+        "shinhan financial group",
+        "shinhan bank",
+        "shinhan",
+        "sfg"
+    ],
+    "sg_token": [
+        "societe generale group",
+        "societe generale sa",
+        "societe generale"
+    ],
+    "smfg_token": [
+        "sumitomo mitsui financial group",
+        "sumitomo mitsui financial",
+        "sumitomo mitsui banking corporation",
+        "smfg"
+    ],
+    "smth_token": [
+        "sumitomo mitsui trust holdings",
+        "sumitomo mitsui trust bank",
+        "sumitomo mitsui trust",
+        "smth"
+    ],
+    "spd_token": [
+        "shanghai pudong development bank",
+        "spd"
+    ],
+    "ss_token": [
+        "state street corporation",
+        "state street bank",
+        "state street"
+    ],
+    "sun_token": [
+        "suncorp group limited",
+        "suncorp group",
+        "suncorp"
+    ],
+    "td_token": [
+        "toronto dominion bank",
+        "toronto dominion",
+        "td bank",
+        "td"
+    ],
+    "tmk_token": [
+        "temasek holdings",
+        "temasek"
+    ],
+    "ubs_token": [
+        "ubs group ag",
+        "ubs group",
+        "ubs ag",
+        "ubs"
+    ],
+    "ucg_token": [
+        "unicredit group",
+        "unicredit spa",
+        "unicredit bank ag",
+        "unicredit bank austria ag",
+        "unicredit bank",
+        "unicredit leasing",
+        "unicredit"
+    ],
+    "uhg_token": [
+        "unitedhealth group incorporated",
+        "unitedhealth group",
+        "unitedhealth"
+    ],
+    "uob_token": [
+        "united overseas bank limited",
+        "united overseas bank",
+        "uob"
+    ],
+    "usb_token": [
+        "bancorp",
+        "usb"
+    ],
+    "uss_token": [
+        "universities superannuation scheme",
+        "university superannuation scheme",
+        "uss"
+    ],
+    "wbc_token": [
+        "westpac banking corporation",
+        "westpac group",
+        "westpac"
+    ],
+    "wfc_token": [
+        "wells fargo company",
+        "wells fargo",
+        "wfc"
+    ],
+    "wfg_token": [
+        "woori financial group inc",
+        "woori financial group",
+        "woori bank",
+        "woori"
+    ],
+    "zig_token": [
+        "zurich insurance group ltd",
+        "zurich insurance group",
+        "zurich insurance",
+        "zurich"
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "abc": [
+        "agricultural bank china",
+        "abc international holdings limited",
+        "abc"
+    ],
+    "aig": [
+        "american international group",
+        "aig"
+    ],
+    "anz": [
+        "australia new zealand banking group limited",
+        "australia new zealand banking group",
+        "anz"
+    ],
+    "as": [
+        "australiansuper"
+    ],
+    "av": [
+        "aviva plc",
+        "aviva"
+    ],
+    "axa": [
+        "axa group",
+        "axa sa",
+        "axa"
+    ],
+    "az": [
+        "allianz group",
+        "allianz se",
+        "allianz"
+    ],
+    "barc": [
+        "barclays bank plc",
+        "barclays group",
+        "barclays plc",
+        "barclays"
+    ],
+    "bbva": [
+        "bbva group",
+        "banco bilbao vizcaya argentaria",
+        "bbva"
+    ],
+    "bh": [
+        "berkshire hathaway"
+    ],
+    "blk": [
+        "blackrock",
+        "blk"
+    ],
+    "bmo": [
+        "bmo financial group",
+        "bank montreal",
+        "bmo"
+    ],
+    "bnp": [
+        "bnp paribas sa",
+        "bnp paribas group",
+        "bnp paribas",
+        "bnp"
+    ],
+    "bns": [
+        "bank nova scotia",
+        "scotiabank",
+        "bns"
+    ],
+    "bnym": [
+        "bank new york mellon corporation",
+        "bank new york mellon",
+        "bny mellon",
+        "bnymellon",
+        "bny"
+    ],
+    "boa": [
+        "bank america corporation",
+        "bank america"
+    ],
+    "boc": [
+        "bank china group",
+        "bank china",
+        "boc"
+    ],
+    "boca": [
+        "bank canada"
+    ],
+    "bocom": [
+        "bank communications",
+        "bocom"
+    ],
+    "boe": [
+        "bank england",
+        "boe"
+    ],
+    "boj": [
+        "bank japan",
+        "boj"
+    ],
+    "bok": [
+        "bank korea",
+        "bok"
+    ],
+    "bpce": [
+        "bpce group",
+        "group bpce",
+        "bpce sa",
+        "bpce"
+    ],
+    "bs": [
+        "blackstone group",
+        "blackstone inc",
+        "blackstone"
+    ],
+    "ca": [
+        "credit agricole cib",
+        "credit agricole sa",
+        "credit agricole group",
+        "credit agricole"
+    ],
+    "cba": [
+        "commonwealth bank australia",
+        "cba"
+    ],
+    "cbk": [
+        "commerzbank aktiengesellschaft",
+        "commerzbank group",
+        "commerzbank ag",
+        "commerzbank",
+        "cbk"
+    ],
+    "ccb": [
+        "china construction bank corporation",
+        "china construction bank",
+        "construction bank",
+        "ccb"
+    ],
+    "ceb": [
+        "china everbright bank company limited",
+        "china everbright bank",
+        "china everbright group",
+        "china everbright",
+        "ceb"
+    ],
+    "cibc": [
+        "canadian imperial bank commerce",
+        "cibc"
+    ],
+    "cic": [
+        "china investment corporation",
+        "cic"
+    ],
+    "citi": [
+        "citi",
+        "citigroup",
+        "citibank"
+    ],
+    "citic": [
+        "citic group",
+        "citic bank",
+        "citic"
+    ],
+    "cl": [
+        "china life insurance company limited",
+        "china life"
+    ],
+    "cm": [
+        "credit mutuel group",
+        "credit mutuel alliance federale",
+        "credit mutuel"
+    ],
+    "cmb": [
+        "china merchants bank",
+        "china merchants group",
+        "cmb"
+    ],
+    "cmbc": [
+        "china minsheng banking corporation limited",
+        "china minsheng banking",
+        "china minsheng bank",
+        "minsheng"
+    ],
+    "cpp": [
+        "canada pension plan investment board",
+        "canada pension plan",
+        "cppib",
+        "cpp"
+    ],
+    "cs": [
+        "credit suisse group ag",
+        "credit suisse group",
+        "credit suisse ag",
+        "credit suisse"
+    ],
+    "db": [
+        "deutsche bank ag",
+        "deutsche bank",
+        "db"
+    ],
+    "dbs": [
+        "development bank singapore",
+        "dbs bank",
+        "dbs group",
+        "dbs"
+    ],
+    "djd": [
+        "desjardins",
+        "desjardins group"
+    ],
+    "dl": [
+        "dai ichi life holdings",
+        "dai ichi life group",
+        "dai ichi life"
+    ],
+    "dsk": [
+        "danske bank group",
+        "danske bank s",
+        "danske bank",
+        "danske"
+    ],
+    "dz": [
+        "dz bank group",
+        "dz bank ag",
+        "dz bank",
+        "dz"
+    ],
+    "ecb": [
+        "european central bank",
+        "ecb"
+    ],
+    "fed": [
+        "federal reserve system",
+        "federal reserve banks",
+        "federal reserve bank",
+        "federal reserve board",
+        "federal reserve",
+        "fed"
+    ],
+    "ff": [
+        "future fund board guardians",
+        "future fund board",
+        "future fund"
+    ],
+    "frs": [
+        "florida retirement system trust fund",
+        "florida retirement system",
+        "frs"
+    ],
+    "g": [
+        "generali group",
+        "generali"
+    ],
+    "gpif": [
+        "government pension investment fund",
+        "gpif"
+    ],
+    "gs": [
+        "goldman sachs group inc",
+        "goldman sachs group",
+        "goldman sachs",
+        "gs"
+    ],
+    "hdfc": [
+        "housing development finance corporation limited",
+        "housing development finance corporation",
+        "hdfc"
+    ],
+    "hfg": [
+        "hana financial group",
+        "hana bank",
+        "hana"
+    ],
+    "hsbc": [
+        "hongkong shanghai banking corporation",
+        "hsbc holdings plc",
+        "hsbc holdings",
+        "hsbc"
+    ],
+    "iag": [
+        "insurance australia group limited",
+        "insurance australia group",
+        "iag group",
+        "iag"
+    ],
+    "ibc": [
+        "industrial bank"
+    ],
+    "icbc": [
+        "industrial commercial bank china",
+        "icbc"
+    ],
+    "icici": [
+        "icici bank limited",
+        "icici bank",
+        "icici"
+    ],
+    "ing": [
+        "ing group",
+        "ing groep",
+        "ing bank",
+        "ing"
+    ],
+    "isp": [
+        "intesa sanpaolo group",
+        "intesa sanpaolo",
+        "intesa"
+    ],
+    "ivz": [
+        "invesco ltd",
+        "invesco"
+    ],
+    "jpb": [
+        "japan post bank",
+        "japan post group"
+    ],
+    "jpm": [
+        "jpmorgan chase co",
+        "jpmorgan chase",
+        "jpmorgan"
+    ],
+    "kbfg": [
+        "kb financial group",
+        "kbfg",
+        "kb"
+    ],
+    "kkr": [
+        "kohlberg kravis roberts",
+        "kkr co inc",
+        "kkr"
+    ],
+    "lgen": [
+        "legal general group plc",
+        "legal general group",
+        "legal general"
+    ],
+    "lloy": [
+        "lloyds banking group plc",
+        "lloyds banking group",
+        "lloyds bank",
+        "lloyds"
+    ],
+    "met": [
+        "metropolitan life insurance company",
+        "metropolitan life",
+        "metlife"
+    ],
+    "mfc": [
+        "manulife financial corporation",
+        "manulife financial",
+        "manulife"
+    ],
+    "mfg": [
+        "mizuho financial group",
+        "mizuho"
+    ],
+    "mqg": [
+        "macquarie group limited",
+        "macquarie group",
+        "macquarie"
+    ],
+    "mr": [
+        "munich reinsurance company",
+        "munich reinsurance",
+        "munich re"
+    ],
+    "ms": [
+        "morgan stanley co",
+        "morgan stanley"
+    ],
+    "mufg": [
+        "mitsubishi ufj financial group",
+        "mufg"
+    ],
+    "nab": [
+        "national australia bank limited",
+        "national australia bank",
+        "nab"
+    ],
+    "nbc": [
+        "national bank canada",
+        "nbc"
+    ],
+    "nbim": [
+        "norges bank investment management",
+        "norges bank",
+        "nbim"
+    ],
+    "nbs": [
+        "nationwide building society",
+        "nationwide"
+    ],
+    "nda": [
+        "nordea bank abp",
+        "nordea bank ab",
+        "nordea bank",
+        "nordea"
+    ],
+    "nl": [
+        "nippon life insurance company",
+        "nippon life",
+        "nissay asset management corporation",
+        "nissay"
+    ],
+    "nmr": [
+        "nomura holdings",
+        "nomura group",
+        "nomura"
+    ],
+    "nps": [
+        "national pension scheme",
+        "nps"
+    ],
+    "nrck": [
+        "norinchukin bank",
+        "norinchukin"
+    ],
+    "nwrbs": [
+        "royal bank scotland group plc",
+        "royal bank scotland",
+        "rbs",
+        "natwest group",
+        "natwest"
+    ],
+    "nyslrs": [
+        "new york state local retirement system",
+        "nyslrs"
+    ],
+    "ocbc": [
+        "oversea chinese banking corporation limited",
+        "oversea chinese banking corporation",
+        "ocbc"
+    ],
+    "pa": [
+        "ping insurance group company",
+        "ping insurance group",
+        "ping insurance",
+        "ping group",
+        "ping bank",
+        "ping"
+    ],
+    "pnc": [
+        "pittsburgh national corporation",
+        "provident national corporation",
+        "pnc financial services group",
+        "pnc bank",
+        "pnc"
+    ],
+    "pru": [
+        "prudential plc",
+        "prudential"
+    ],
+    "qbe": [
+        "qbe insurance group limited",
+        "qbe insurance group",
+        "qbe"
+    ],
+    "rba": [
+        "reserve bank australia",
+        "rba"
+    ],
+    "rbb": [
+        "rabobank group",
+        "rabobank"
+    ],
+    "rbc": [
+        "royal bank canada",
+        "rbc"
+    ],
+    "rbi": [
+        "reserve bank india",
+        "rbi"
+    ],
+    "san": [
+        "grupo santander",
+        "banco santander",
+        "santander group",
+        "santander bank",
+        "santander"
+    ],
+    "sbi": [
+        "state bank india",
+        "sbi"
+    ],
+    "sc": [
+        "standard chartered plc",
+        "standard chartered bank",
+        "standard chartered"
+    ],
+    "sfg": [
+        "shinhan financial group",
+        "shinhan bank",
+        "shinhan",
+        "sfg"
+    ],
+    "sg": [
+        "societe generale group",
+        "societe generale sa",
+        "societe generale"
+    ],
+    "smfg": [
+        "sumitomo mitsui financial group",
+        "sumitomo mitsui financial",
+        "sumitomo mitsui banking corporation",
+        "smfg"
+    ],
+    "smth": [
+        "sumitomo mitsui trust holdings",
+        "sumitomo mitsui trust bank",
+        "sumitomo mitsui trust",
+        "smth"
+    ],
+    "spd": [
+        "shanghai pudong development bank",
+        "spd"
+    ],
+    "ss": [
+        "state street corporation",
+        "state street bank",
+        "state street"
+    ],
+    "sun": [
+        "suncorp group limited",
+        "suncorp group",
+        "suncorp"
+    ],
+    "td": [
+        "toronto dominion bank",
+        "toronto dominion",
+        "td bank",
+        "td"
+    ],
+    "tmk": [
+        "temasek holdings",
+        "temasek"
+    ],
+    "ubs": [
+        "ubs group ag",
+        "ubs group",
+        "ubs ag",
+        "ubs"
+    ],
+    "ucg": [
+        "unicredit group",
+        "unicredit spa",
+        "unicredit bank ag",
+        "unicredit bank austria ag",
+        "unicredit bank",
+        "unicredit leasing",
+        "unicredit"
+    ],
+    "uhg": [
+        "unitedhealth group incorporated",
+        "unitedhealth group",
+        "unitedhealth"
+    ],
+    "uob": [
+        "united overseas bank limited",
+        "united overseas bank",
+        "uob"
+    ],
+    "usb": [
+        "bancorp",
+        "usb"
+    ],
+    "uss": [
+        "universities superannuation scheme",
+        "university superannuation scheme",
+        "uss"
+    ],
+    "wbc": [
+        "westpac banking corporation",
+        "westpac group",
+        "westpac"
+    ],
+    "wfc": [
+        "wells fargo company",
+        "wells fargo",
+        "wfc"
+    ],
+    "wfg": [
+        "woori financial group inc",
+        "woori financial group",
+        "woori bank",
+        "woori"
+    ],
+    "zig": [
+        "zurich insurance group ltd",
+        "zurich insurance group",
+        "zurich insurance",
+        "zurich"
+    ]
+}
