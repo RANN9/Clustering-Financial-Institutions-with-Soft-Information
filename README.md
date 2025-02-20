@@ -2,6 +2,9 @@
 
 Code repository for the paper **_Clustering Financial Institutions with Soft Information: A Computational Linguistics Approach_**, submitted in partial fulfilment of the requirements for the degree of MSc Financial Technology at Imperial College London
 
+## Paper
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4954166
+
 ## Code Definition
 - The `pdf_preprocess_and_parse` directory contains code for document extraction, text cleaning, and normalisation.
 - The `w2v` directory contains code for creating Negative Sampling Word2Vec training datasets and Word2Vec model using the Skip-Gram architecture.
